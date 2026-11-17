@@ -1,0 +1,12 @@
+{
+  "name": "sislii-nyce-store-clone",
+  "version": "1.0.0",
+  "description": "Clon completo de Sislii ERP / POS / Facturación Electrónica (NYCE STORE)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "NYCE STORE - Sislii",
+  "license": "PRIVATE"
+}
